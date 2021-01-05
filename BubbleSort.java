@@ -20,7 +20,6 @@ public class BubbleSort {
             }
         }
         for(int i=0 ; i<number.length ; i++){
-            // numberMax[i]=max;
             System.out.print(number[i] + " ");
         }
     }
